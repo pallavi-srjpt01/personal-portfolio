@@ -62,7 +62,7 @@ portfolio/
 ## 👩‍💻 Author
 
 
-pallavi Singh
+Pallavi Singh
 
 ---
 
